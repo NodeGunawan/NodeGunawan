@@ -3,6 +3,14 @@
 NodeGunawan adalah entitas dokumentasi dan arsip pengalaman nyata.  
 Fokus pada pencatatan aktivitas, pola kerja, dan relasi sistem tanpa klaim berlebihan.
 
+## About Me
+
+Saya mencatat proses, pengalaman, dan aktivitas nyata  
+sebagai arsip yang bisa dibaca ulang oleh manusia maupun sistem.
+
+Fokus pada dokumentasi, pola kerja, dan jejak konteks  
+tanpa mengejar klaim, pencitraan, atau penyederhanaan berlebihan.
+
 ## What exists here
 - Catatan proses dan pengalaman
 - Dokumentasi aktivitas publik
